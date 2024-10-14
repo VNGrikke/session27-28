@@ -1,0 +1,37 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 1000,
+      "description": "Description of Product 1",
+      "quantity": 6,
+      "image": "https://img.hoidap247.com/picture/question/20221023/large_1666496979569.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 2000,
+      "description": "Description of Product 2",
+      "quantity": 9,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.2vzsifaHLuWqry9oBTICxwHaEt&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 3000,
+      "description": "Description of Product 3",
+      "quantity": 12,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.5bLEGgrUJw9PXpPA3ReYBwHaGU&pid=Api&P=0&h=220"
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 2000,
+      "quantity": 2,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.2vzsifaHLuWqry9oBTICxwHaEt&pid=Api&P=0&h=220"
+    }
+  ]
+}
